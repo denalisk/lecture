@@ -1,0 +1,31 @@
+body {
+  background-color: #d5dce8;
+
+}
+
+h2 {
+  border: 2px dotted black;
+  border-width: 50%;
+  border-bottom: 5px solid black;
+  border-top: 3px solid black;
+}
+
+img {
+  float: right;
+  height: 150px;
+  margin-right: 100px;
+  border-radius: 34%;
+}
+
+.section-1 {
+  font-family: fantasy;
+}
+.section-2 {
+  font-family: sans-serif;
+}
+.section-3 {
+  font-family: cursive;
+}
+.section-4 {
+  font-family: Arial;
+}
