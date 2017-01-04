@@ -29,3 +29,10 @@ img {
 .section-4 {
   font-family: Arial;
 }
+
+.mrgin {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border: 10px solid red;
+  padding-top: 60px;
+}
